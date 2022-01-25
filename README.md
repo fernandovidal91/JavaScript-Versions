@@ -1,6 +1,6 @@
 # The let keyword (A palavra-chave let)
 
-### A palavra `let` permite declarar uma variável com escopo de bloco, ou seja, caso a declare dentro de uma `function` ou dentro de um `if` seu valor ira valer somente para aquele bloco. Seu valor também e mutável, permitindo a alteração do mesmo ao executar determinado bloco de código.
+#### A palavra `let` permite declarar uma variável com escopo de bloco, ou seja, caso a declare dentro de uma `function` ou dentro de um `if` seu valor ira valer somente para aquele bloco. Seu valor também e mutável, permitindo a alteração do mesmo ao executar determinado bloco de código.
 
 ```
 let name = 'Fernando';
@@ -31,7 +31,7 @@ console.log({ numberOne, numberTwo, result })
 ```
 
 # The const keyword (A palavra-chave const)
-### A palavra `const` permite declarar uma variável com escopo de bloco, ou seja, caso a declare dentro de uma `function` ou dentro de um `if` seu valor ira valer somente para aquele bloco. Seu valor não e mutável, não permitindo a alteração do mesmo ao executar determinado bloco de código.
+#### A palavra `const` permite declarar uma variável com escopo de bloco, ou seja, caso a declare dentro de uma `function` ou dentro de um `if` seu valor ira valer somente para aquele bloco. Seu valor não e mutável, não permitindo a alteração do mesmo ao executar determinado bloco de código.
 
 ```
 const name = 'Fernando';
